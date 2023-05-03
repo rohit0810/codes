@@ -1,0 +1,3 @@
+Welcome to our coding practice repository! Here you will find a collection of programming challenges and exercises to help you improve your skills in C++ and Python. Each problem statement comes with a detailed description of the task, as well as input/output examples to help you understand the problem better.
+
+Whether you are a beginner or an experienced programmer, these challenges will test your knowledge and help you sharpen your problem-solving skills. You can use this repository to practice for coding interviews, to prepare for programming contests, or simply to challenge yourself and improve your programming abilities.
